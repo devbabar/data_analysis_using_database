@@ -12,6 +12,10 @@ For this demonstration, I am using the Jupyter Notebook, open-source web applica
 
 ### Step 1:
 Establish a connection with the mysql database using sqlalchemy's create_engine. Use your own credentials.
+![](screenshots/db_connection.png)
+
+### Database.
+![](screenshots/database.png)
 
 
 ### Step 2:
